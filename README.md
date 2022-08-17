@@ -1,4 +1,4 @@
-<img src="https://giphy.com/clips/originals-hacker-desi-hackette-lu01tsQqf1mJuHrFVq.gif" align="right" width="400" height="300">
+<img src="https://media.giphy.com/media/pOKrXLf9N5g76/giphy.gif" align="right" width="400" height="300">
 
 ### Hi there, I'm Polat. 
 
