@@ -1,4 +1,4 @@
-<img src="https://giphy.com/gifs/loop-glitch-matrix-l0IyeheChYxx2byDu" align="right" width="400" height="300">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" align="right" width="400" height="300">
 
 ### Hi there, I'm Polat. 
 
