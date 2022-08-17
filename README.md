@@ -28,7 +28,7 @@
 
 - 💬 Ask me about [Telegram](https://t.me/zemheri12) - [Twitter](https://twitter.com/borsadanbihaber)
 
-- 📫 How to reach me [Mail](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRpcckvcqpDDBNJdNlNXTpBCJnwRJwhdnHxqpLGbXvpBxZrKKHXdFGGnKtrShNShxnPVcNQ)
+- 📫 How to reach me [Mail](https://mail.google.com/mail/u/0/#inbox?compose=new)
 
 - 📄 Know about my experiences [Forum](https://forum.rues.info/index.php)
 
