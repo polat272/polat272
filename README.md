@@ -28,8 +28,6 @@
 
 - 💬 Ask me about :[Telegram](https://t.me/zemheri12) - [Twitter](https://twitter.com/borsadanbihaber)
 
-- 📫 How to reach me :<a href="mailto:deliahmey63@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-deliahmey63@gmail.com-blue?style=flat&logo=gmail"></a>
-
 - 📄 Know about my experiences [Forum](https://forum.rues.info/index.php)
 
 - ⚡ Fun fact **Managing Community | produce content**
