@@ -1,8 +1,8 @@
 <img src="https://media.giphy.com/media/pOKrXLf9N5g76/giphy.gif" align="right" width="400" height="300">
 
-### Hi there, I'm Polat. :blush:
+### Hi there, I'm Polat. :sunglasses:
 
-## Community Manager | Content Creator
+## Community Manager | Content Creator. :computer:
 
 <font color="pink">Build :atom_symbol: </font>
 
