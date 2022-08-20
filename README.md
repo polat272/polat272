@@ -12,13 +12,7 @@
 <a href="https://medium.com/@deliahmey63" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zaferayan" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/RuesYouTube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc1vykhlufpaoghrwhjikrqg" height="30" width="40" /></a>
 <a href="https://discord.gg/discord.gg/ruescommunity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.gg/ruescommunity" height="40" width="40" /></a>
-<br />
-<div align="center">
-  <a href="mailto:deliahmey63@gmail.com?body=Bonjour%20Ahmet">
-    <img
-      src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"
-    />
-  </a>
+<a href="mailto:deliahmey63@gmail.com?body=Bonjour%20Ahmet" target="blank"><img align="center" src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruesandora&label=Profile%20views&color=0e75b6&style=flat" alt="ruesandora" /> <a href="https://twitter.com/borsadanbihaber" target="blank"><img src="https://img.shields.io/twitter/follow/borsadanbihaber?logo=twitter&style=for-the-badge" alt="borsadanbihaber" /></a> 
 
