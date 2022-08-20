@@ -26,9 +26,9 @@
 
 - 📝 I regularly write articles on Layer-1 Blokchain
 
-- 💬 Ask me about [Telegram](https://t.me/zemheri12) - [Twitter](https://twitter.com/borsadanbihaber)
+- 💬 Ask me about :[Telegram](https://t.me/zemheri12) - [Twitter](https://twitter.com/borsadanbihaber)
 
-- 📫 How to reach me [Mail](https://mail.google.com/mail/u/0/#inbox?compose=new)
+- 📫 How to reach me :<a href="mailto:deliahmey63@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-deliahmey63@gmail.com-blue?style=flat&logo=gmail"></a>
 
 - 📄 Know about my experiences [Forum](https://forum.rues.info/index.php)
 
