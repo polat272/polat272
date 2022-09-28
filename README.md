@@ -14,7 +14,7 @@
 <a href="https://discord.gg/discord.gg/ruescommunity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.gg/ruescommunity" height="40" width="40" /></a>
 <a href="mailto:deliahmey63@gmail.com?body=Bonjour%20Ahmet" target="blank"><img align="center" src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white" /></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruesandora&label=Profile%20views&color=0e75b6&style=flat" alt="ruesandora" /> <a href="https://twitter.com/borsadanbihaber" target="blank"><img src="https://img.shields.io/twitter/follow/borsadanbihaber?logo=twitter&style=for-the-badge" alt="borsadanbihaber" /></a> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=borsadanbihaber&label=Profile%20views&color=0e75b6&style=flat" alt="borsadanbihaber" /> <a href="https://twitter.com/borsadanbihaber" target="blank"><img src="https://img.shields.io/twitter/follow/borsadanbihaber?logo=twitter&style=for-the-badge" alt="borsadanbihaber" /></a> 
 
 <img src="https://github-readme-stats.vercel.app/api?username=polat272&show_icons=true&theme=highcontrast" align="right" width="450" height="350" >
 
