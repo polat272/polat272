@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/pOKrXLf9N5g76/giphy.gif" align="right" width="400" height="300">
 
-### Hi there, I'm Polat. :sunglasses:
+### Hi there, I'm Polat. :first_quarter_moon_with_face:
 
 ## Community Manager | Content Creator. :computer:
 
